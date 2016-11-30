@@ -1,2 +1,5 @@
 # workshop-dotnetcore
-Workshop para aplicar conhecimentos sobre dotNet Core 1.1 com integração contínua  (CircleCI) e containers (Docker)
+### dotNet Core 1.1 + Docker + CircleCI
+
+Workshop para aplicar conhecimentos sobre dotNet Core 1.1 com integração contínua  (CircleCI) e containers (Docker).
+As tecnologias utilizadas nesse projeto são todas open source.
